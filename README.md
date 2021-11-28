@@ -6,22 +6,20 @@ The project at hand was brought to us by W.Avy. A man who needs our help analyzi
 
 **RESULTS**
 
-JUNE TEMPATURE
+**JUNE TEMPATURE**
 
 -	The temperature low in June is 64 degrees, while the high is 85 degrees.
 -	We can see that the average temperature in June is around 75 degrees.
--	
 -	Season: Summer
 
 
 <img width="154" alt="Screen Shot 2021-11-27 at 4 20 08 PM" src="https://user-images.githubusercontent.com/91299616/143724238-b93446d1-0496-4244-9ca3-abf873ad99d2.png">
 
 
-DECEMBER TEMPATURE
+**DECEMBER TEMPATURE**
 
 -	The temperature low in December is 56 degrees, while the high is 83 degrees.
 -	We can see that the average temperature in December is around 71 degrees.
--	
 -	Season: Winter
 
 
